@@ -1,6 +1,6 @@
 ---
 layout: default
-previous:index.html
+next:index.html
 ---
 ##When
 
