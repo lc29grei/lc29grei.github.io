@@ -1,9 +1,8 @@
 ---
 layout: default
-next: index.html
+previous: index.html
 ---
 
-*“Some quote from the governor.” – Governor Cuomo*
+*Vision*
 
-VISION
-=========
+

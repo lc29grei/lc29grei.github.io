@@ -1,6 +1,6 @@
 ---
 layout: default
-next: index.html
+next: logistics.html
 ---
 
 *“Some quote from the governor.” – Governor Cuomo*
