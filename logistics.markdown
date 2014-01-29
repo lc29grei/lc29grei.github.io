@@ -2,7 +2,9 @@
 layout: default
 next:index.html
 ---
-##When
+VISION
+=========
 
-##Where
+VISION
+=========
 
