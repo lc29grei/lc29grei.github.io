@@ -3,7 +3,7 @@ layout: default
 next: logistics.html
 ---
 
-*“A quote"*
+*“Environmentalism opposes reckless innovation and makes conservation the central order of business." - Christopher Lasch*
 
 VISION
 =========
