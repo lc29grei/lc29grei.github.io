@@ -1,7 +1,8 @@
 ---
 layout: default
-next:index.html
+next:logistics.html
 ---
+
 VISION
 =========
 
