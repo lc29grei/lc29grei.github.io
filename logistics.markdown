@@ -3,5 +3,8 @@ layout: default
 previous: index.html
 ---
 
-VISION
+When
+=========
+
+Where
 =========
