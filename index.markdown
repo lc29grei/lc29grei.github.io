@@ -1,11 +1,9 @@
 ---
 layout: default
-next:logistics.html
+next: index.html
 ---
 
-VISION
-=========
+*“Some quote from the governor.” – Governor Cuomo*
 
 VISION
 =========
-
